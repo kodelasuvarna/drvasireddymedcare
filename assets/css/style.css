@@ -3964,6 +3964,11 @@ label {
 .cs_site_branding {
   display: inline-block;
 }
+.cs_site_branding img{
+  width:90px;
+  height:90px;
+  margin-right: 20px;
+}
 .cs_site_branding + .cs_nav {
   margin-left: 80px;
 }
