@@ -2172,7 +2172,7 @@ label {
 .cs_about.cs_style_1 .cs_about_thumb {
   margin-right: 36px;
   position: relative;
-  /* padding-bottom: 200px; */
+  padding-bottom: 200px;
 }
 /* .cs_about_thumb img{
   border:1px solid rgb(106, 114, 106);
@@ -2211,7 +2211,7 @@ label {
   width: 160px;
   position: absolute;
   border-radius: 50%;
-  border: 25px solid var(--accent-color);
+  /* border: 25px solid var(--accent-color); */
   left: -75px;
   top: 40px;
 }
