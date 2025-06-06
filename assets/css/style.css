@@ -1533,6 +1533,8 @@ label {
 }
 
 .cs_spinner_img {
+  width:100px;
+  height:150px;
   -webkit-animation: spinAnimaiton 6s linear infinite;
           animation: spinAnimaiton 6s linear infinite;
 }
