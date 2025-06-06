@@ -3841,6 +3841,9 @@ label {
 .cs_site_header.sticky .cs_search_toggle .fa-solid{
   color:white;
 }
+.cs_site_header.sticky .menu-item-has-children li{
+color: #000000;
+}
 /* Spacer to prevent jump */
 .cs_site_header_spacing_150 {
   height: 150px;
@@ -4219,6 +4222,9 @@ label {
  
   
 }
+.cs_nav .cs_nav_list li:hover{
+  border-bottom: 1px solid var(--accent-color);
+}
   
   .cs_nav .cs_nav_list ul ul {
     top: 15px;
@@ -4509,7 +4515,7 @@ label {
     position: relative;
   }
   .cs_site_header.cs_style_1 .cs_main_header_in {
-    height: 80px;
+    /* height: 80px; */
   }
   .cs_site_header .current-menu-item > a:before {
     display: none;
