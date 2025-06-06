@@ -5024,6 +5024,7 @@ color: #000000;
   font-size: 19px;
   max-width: 600px;
   margin-bottom: 25px;
+  color:var(--accent-color);;
 
 }
 .cs_hero.cs_style_1 .cs_hero_info {
@@ -5550,6 +5551,7 @@ color: #000000;
   margin-bottom: 5px;
 }
 .cs_iconbox.cs_style_3 .cs_iconbox_subtitle {
+  color: #000;
   margin-bottom: 0;
 }
 .cs_iconbox.cs_style_3:hover .cs_iconbox_icon::before {
