@@ -67,7 +67,8 @@ Google Fonts Integration
   --border-color: #dddddd;
   --heading-font: "Poppins", sans-serif;
   --body-font: "Rubik", sans-serif;
-  --green-color:#42a438;
+  --green-color:#1f8bb9;
+  /* --green-color:#42a438; */
 }
 
 /*--------------------------------------------------------------
@@ -3832,14 +3833,17 @@ label {
 
 .cs_site_header.sticky {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add shadow on scroll */
-  background-color:var(--blue-color);
+  /* background-color:var(--blue-color); */
 }
-.cs_site_header.sticky li{
+/* .cs_site_header.sticky li{
   color:white;
 }
 .cs_site_header.sticky .cs_search_toggle .fa-solid{
   color:white;
 }
+.cs_site_header.sticky .menu-item-has-children li{
+color: #000000;
+} */
 /* Spacer to prevent jump */
 .cs_site_header_spacing_150 {
   height: 150px;
@@ -4218,6 +4222,9 @@ label {
  
   
 }
+.cs_nav .cs_nav_list li:hover{
+  border-bottom: 1px solid var(--accent-color);
+}
   
   .cs_nav .cs_nav_list ul ul {
     top: 15px;
@@ -4508,7 +4515,7 @@ label {
     position: relative;
   }
   .cs_site_header.cs_style_1 .cs_main_header_in {
-    height: 80px;
+    /* height: 80px; */
   }
   .cs_site_header .current-menu-item > a:before {
     display: none;
