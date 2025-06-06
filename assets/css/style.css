@@ -8786,3 +8786,18 @@ color: var(--white-color) !important;
     transform: rotate(45deg) scale(1.1);
   }
 }
+.cs_iconbox1 {
+  background-color:var(--gray-color);
+  padding:10px 10px;
+  align-items: center;
+
+}
+.bio-section {
+    background-color: rgb(30, 139, 184);
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    box-shadow: rgba(0, 0, 0, 0.5) 5px 5px 10px 5px;
+    margin: 40px;
+    padding: 35px;
+    border-radius: 15px;
+}
