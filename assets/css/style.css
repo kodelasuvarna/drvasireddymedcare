@@ -2175,7 +2175,7 @@ label {
 .cs_about.cs_style_1 .cs_about_thumb {
   margin-right: 36px;
   position: relative;
-  padding-bottom: 200px;
+  /* padding-bottom: 200px; */
 }
 /* .cs_about_thumb img{
   border:1px solid rgb(106, 114, 106);
@@ -2183,7 +2183,7 @@ label {
 } */
 .cs_about_thumb .doctor-image {
   width: 100%;
-  max-width: 400px;        /* Controls how big the image can get */
+  /* max-width: 400px;   */
   height: auto;            /* Maintains aspect ratio */
   border-radius: 20px;     /* Rounded corners, use 50% for circle */
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); /* Soft shadow */
