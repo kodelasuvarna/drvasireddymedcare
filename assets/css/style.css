@@ -4581,7 +4581,7 @@ color: #000000;
 }
 @media (max-width: 1199px) {
   .cs_footer_highlight_col {
-    padding: 50px 15px;
+    padding: 50px 0px;
   }
 }
 
