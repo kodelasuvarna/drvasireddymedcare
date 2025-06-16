@@ -8849,3 +8849,11 @@ background: linear-gradient(to right, #2596be, #8ad3b0);
   font-size: 14px;
   color: #888;
 }
+.group-img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 20px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  margin: 20px auto;
+  display: block;
+}
