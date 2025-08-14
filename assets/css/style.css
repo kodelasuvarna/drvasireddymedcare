@@ -8870,3 +8870,7 @@ background: linear-gradient(to right, #2596be, #8ad3b0);
 .text-warning {
   
 }
+
+#blog-filter {
+    padding-bottom: -50px; /* adjust value as needed */
+}
